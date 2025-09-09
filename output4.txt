@@ -1,0 +1,6 @@
+Graph 1: g=0 d=1
+Graph 2: g=0 d=2
+Graph 3: g=0 d=1
+Graph 4: g=1 d=2
+Graph 5: g=0 d=1
+Graph 6: g=0 d=1
